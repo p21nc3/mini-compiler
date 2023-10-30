@@ -1,7 +1,12 @@
-# mini-compiler - 2023
+# Final Report mini-compiler 
 > compiler for an educational C-subset language
 
-This Project **Mini-compiler** is my semester project for the cource **18CSC304J - Compiler Design**
+**Title:** Mini-compiler for C language
+**Author:** Prince Bhardwaj
+**Register Number:** RA2011008020062
+**Institution:** SRM University, Department of Information Technology
+**Course:** 18CSC304J - Compiler Design
+**Summary:** A simple compiler that supports basic C language syntax.
 
 
 ## Environmental configuration
