@@ -1,12 +1,12 @@
 # Final Report mini-compiler 
 > compiler for an educational C-subset language
 
-**Title:** Mini-compiler for C language
-**Author:** Prince Bhardwaj
-**Register Number:** RA2011008020062
-**Institution:** SRM University, Department of Information Technology
-**Course:** 18CSC304J - Compiler Design
-**Summary:** A simple compiler that supports basic C language syntax.
+**Title:** Mini-compiler for C language<br>
+**Author:** Prince Bhardwaj<br>
+**Register Number:** RA2011008020062<br>
+**Institution:** SRM University, Department of Information Technology<br>
+**Course:** 18CSC304J - Compiler Design<br>
+**Summary:** A simple compiler that supports basic C language syntax<br>
 
 
 ## Environmental configuration
